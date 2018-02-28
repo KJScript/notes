@@ -1,4 +1,4 @@
-# Nopes App
+# Notes App
 
 This is a notes application built on Meteor I made through a Udemy course.
 
